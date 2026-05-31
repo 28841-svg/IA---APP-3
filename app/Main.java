@@ -11,7 +11,7 @@ public class Main {
                 "Leon",
                 3,
                 11,
-                FurColor.ORANGE_TABBY,
+                FurColor.Preto,
                 true,
                 "Peixe",
                 25,
