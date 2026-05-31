@@ -2,13 +2,13 @@ package enums;
 
 public enum FurColor {
 
-    BLACK(1, "Preto"),
-    WHITE(2, "Branco"),
-    ORANGE_TABBY(3, "Laranja"),
-    GRAY(4, "Cinza"),
-    BROWN(5, "Marrom"),
-    CALICO(6, "Azul"),
-    SPOTTED(7, "Lilas");
+    Preto(1, "Preto"),
+    Branco(2, "Branco"),
+    Laranja(3, "Laranja"),
+    Cinza(4, "Cinza"),
+    Marrom(5, "Marrom"),
+    Rajado(6, "Rajado"),
+    Lilas(7, "Lilas");
 
     private int code;
     private String displayName;
